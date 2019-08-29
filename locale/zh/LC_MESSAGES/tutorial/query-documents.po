@@ -492,7 +492,7 @@ msgid ""
 "match all documents where the ``badges`` is an array that contains "
 "``\"black\"`` as the first element:"
 msgstr ""
-"在下面的例子中,查询使用 the :term:`dot notation` 匹配所有 ``dadges`` 数组的第一个元"
+"在下面的例子中,查询使用 the :term:`dot notation` 匹配所有 ``badges`` 数组的第一个元"
 "素为``\"black\"`` 的文档:"
 
 # a120c803650842c398c3b20c2bfda646
